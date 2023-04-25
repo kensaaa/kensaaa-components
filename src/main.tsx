@@ -1,1 +1,2 @@
-export { Button } from "./stories/Button";
+export { RouterMain } from "./componets/RouterMain";
+export { RoutesPath } from "./componets/RoutesPath";
